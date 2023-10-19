@@ -1,0 +1,2 @@
+20231017	17:42:54	a167d5ff-ecdb-4e5f-b29f-dc830f698a19	POST	undefined	/register
+20231019	14:01:08	b40c8719-73a8-4111-8985-e98ae4916d23	POST	undefined	/auth
